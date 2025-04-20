@@ -49,6 +49,16 @@
 
 ---
 
+## 🧩 Frontend Installation (Next.js)
 
-> Built with ❤️ by developers who care about the **truth**.
+```bash
+# 1. Clone the frontend repository:
+git clone https://github.com/DevDesignWin/H4B-Frontend.git
+cd H4B-Frontend
 
+# 2. Install dependencies:
+npm install
+
+# 3. Start the development server:
+npm run dev
+```
