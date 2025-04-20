@@ -28,8 +28,8 @@ A powerful and intelligent Discord bot that verifies user-provided statements us
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clone https://github.com/shauryapandit/H4B-Backend
+   cd H4B-Backend/backend
    ```
 2. Create a virtual environment and activate it:
    ```bash
